@@ -3,3 +3,5 @@ banana
 frutillas
 naranjas
 galletitas
+milanesa
+papas fritas
